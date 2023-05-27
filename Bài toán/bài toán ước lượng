@@ -6,7 +6,7 @@ Với độ tin cậy 95% hãy ước lượng tỉ lệ bán xe cũ của hãng
 chúng ta có thể sử dụng phương pháp ước lượng điểm với độ tin cậy 95%.
 Tỉ lệ ước lượng = (số lượng xe cũ bán được trong mẫu) / (tổng số mẫu) = (285 / 500) ≈ 0.57
 
-Do đây là một ước lượng điểm, để xác định độ tin cậy 95%, chúng ta cần tính đến khoảng tin cậy.
+Do đây là một ước lượng tỉ lêj, để xác định độ tin cậy 95%, chúng ta cần tính đến khoảng tin cậy.
 Khoảng tin cậy 95% sẽ giúp chúng ta xác định khoảng giá trị mà tỉ lệ bán xe cũ có thể thuộc về với độ tin cậy 95%.
 Khoảng tin cậy = Ước lượng +- (Giá trị tới hạn * Sai số tiêu chuẩn)
 
